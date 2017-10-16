@@ -10,7 +10,7 @@ spring:
       server:
         git:
           uri: https://github.com/leedan/mybolg
-          search-paths: tree/master/config-server/src/main/resources
+          search-paths: tree/master/config-server/src/main/resources/config
           username: 1217372812@qq.com
           password: 1991623lidan
   profiles:
