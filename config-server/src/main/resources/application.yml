@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/leedan/mybolg.git
+          uri: https://github.com/leedan/mybolg
           search-paths: config-server/src/main/resources/config
           username: 1217372812@qq.com
           password: 1991623lidan
